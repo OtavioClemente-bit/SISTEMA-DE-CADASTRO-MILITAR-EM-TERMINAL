@@ -75,4 +75,4 @@ python main.py
 
 > Interface em terminal limpa e funcional, com feedback visual e navegação simples.
 
-![Preview](sistema_terminal_preview.png)
+![Demonstração do sistema](sistema_terminal_demo.gif)
