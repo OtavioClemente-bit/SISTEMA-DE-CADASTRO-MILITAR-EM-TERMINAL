@@ -1,8 +1,8 @@
-# 📋 Sistema de Cadastro Militar (Terminal)
+# Sistema de Cadastro Militar (Terminal)
 
 Este é um sistema de terminal desenvolvido em Python para cadastro, consulta, edição e exclusão de militares, com persistência em arquivo JSON.
 
-## ✅ Funcionalidades
+## Funcionalidades
 - Cadastro completo de militares (nome, CPF, IDT, PREC-CP, banco, conta, etc)
 - Ordenação por posto/graduação
 - Busca por nome (com ou sem acento)
@@ -11,12 +11,12 @@ Este é um sistema de terminal desenvolvido em Python para cadastro, consulta, e
 - Cadastro dinâmico de postos e bancos
 - Dados salvos localmente em `militares.json`
 
-## 💻 Tecnologias
+## Tecnologias
 - Python 3
 - JSON para persistência
 - Interface em terminal
 
-## 🚀 Como executar
+## Como executar
 
 1. Clone o repositório ou baixe os arquivos:
 ```bash
@@ -31,5 +31,5 @@ python main.py
 
 > O arquivo `militares.json` será criado automaticamente se não existir.
 
-## ✍️ Desenvolvido por
+## Desenvolvido por
 [Otavio Clemente](https://github.com/OtavioClemente-bit)
